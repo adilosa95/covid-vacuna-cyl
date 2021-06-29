@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/covid-vacuna-cyl/static/css/main.f46e2578.chunk.css",
+    "main.js": "/covid-vacuna-cyl/static/js/main.789479f5.chunk.js",
+    "main.js.map": "/covid-vacuna-cyl/static/js/main.789479f5.chunk.js.map",
+    "runtime-main.js": "/covid-vacuna-cyl/static/js/runtime-main.7dc2ab31.js",
+    "runtime-main.js.map": "/covid-vacuna-cyl/static/js/runtime-main.7dc2ab31.js.map",
+    "static/js/2.23d8d168.chunk.js": "/covid-vacuna-cyl/static/js/2.23d8d168.chunk.js",
+    "static/js/2.23d8d168.chunk.js.map": "/covid-vacuna-cyl/static/js/2.23d8d168.chunk.js.map",
+    "index.html": "/covid-vacuna-cyl/index.html",
+    "static/css/main.f46e2578.chunk.css.map": "/covid-vacuna-cyl/static/css/main.f46e2578.chunk.css.map",
+    "static/js/2.23d8d168.chunk.js.LICENSE.txt": "/covid-vacuna-cyl/static/js/2.23d8d168.chunk.js.LICENSE.txt",
+    "static/media/base.css": "/covid-vacuna-cyl/static/media/Rubik-SemiBold.779458cb.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dc2ab31.js",
+    "static/js/2.23d8d168.chunk.js",
+    "static/css/main.f46e2578.chunk.css",
+    "static/js/main.789479f5.chunk.js"
+  ]
+}
