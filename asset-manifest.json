@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/covid-vacuna-cyl/static/css/main.3847f6e0.chunk.css",
-    "main.js": "/covid-vacuna-cyl/static/js/main.ee8565ca.chunk.js",
-    "main.js.map": "/covid-vacuna-cyl/static/js/main.ee8565ca.chunk.js.map",
+    "main.js": "/covid-vacuna-cyl/static/js/main.0e5d3273.chunk.js",
+    "main.js.map": "/covid-vacuna-cyl/static/js/main.0e5d3273.chunk.js.map",
     "runtime-main.js": "/covid-vacuna-cyl/static/js/runtime-main.7dc2ab31.js",
     "runtime-main.js.map": "/covid-vacuna-cyl/static/js/runtime-main.7dc2ab31.js.map",
     "static/js/2.45047bd8.chunk.js": "/covid-vacuna-cyl/static/js/2.45047bd8.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.7dc2ab31.js",
     "static/js/2.45047bd8.chunk.js",
     "static/css/main.3847f6e0.chunk.css",
-    "static/js/main.ee8565ca.chunk.js"
+    "static/js/main.0e5d3273.chunk.js"
   ]
 }
